@@ -1,0 +1,1 @@
+#Criar um algoritmo que leia deznúmeros inteiros e informe o maior e o menor número.
